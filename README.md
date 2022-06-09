@@ -7,6 +7,12 @@
   - Learn how the ping utility software works.
   - Model the ping utility server via a simple python program.
 
+## Installation
+~~~
+git clone git@github.com:mglush/ping-client.git   # clone repository.
+cd ping-client                                    # enter repository folder.
+~~~
+
 ## How to Run
 On one host:
 ~~~
