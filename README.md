@@ -14,7 +14,7 @@ python PingServer.py                      # start the server.
 ~~~
 On another host:
 ~~~
-python PingClient.py localhost 12000      # start the client.
+python PingClient.py 0.0.0.0 12000        # start the client.
 ~~~
 
 ## Functionality
