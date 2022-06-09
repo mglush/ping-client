@@ -1,6 +1,6 @@
 # UDP Ping Client Implementation in Python.
 #### By Michael Glushchenko for UCSB CS176A Spring 2022 (Computer Networking).
-###### Partners with Jack Rollinson for this assignment.
+###### Partners with Jack Rollinson.
 
 ## Purpose
   - Learn how clients and servers interract via socket programming.
