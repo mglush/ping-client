@@ -3,11 +3,11 @@
 ###### Partners with Jack Rollinson.
 
 ## Table of Contents
-* [Purpose](https://github.com/mglush/compiler-construction/blob/main/README.md#purpose)
-* [Installation](https://github.com/mglush/compiler-construction/blob/main/README.md#installation)
-* [How To Run](https://github.com/mglush/compiler-construction/blob/main/README.md#how-to-run)
-* [Functionality](https://github.com/mglush/compiler-construction/blob/main/README.md#functionality)
-* [Sample Output](https://github.com/mglush/compiler-construction/blob/main/README.md#sample-output)
+* [Purpose](https://github.com/mglush/ping-utility/blob/main/README.md#purpose)
+* [Installation](https://github.com/mglush/ping-utility/blob/main/README.md#installation)
+* [How To Run](https://github.com/mglush/ping-utility/blob/main/README.md#how-to-run)
+* [Functionality](https://github.com/mglush/ping-utility/blob/main/README.md#functionality)
+* [Sample Output](https://github.com/mglush/ping-utility/blob/main/README.md#sample-output)
 
 ## Purpose
   - Learn how clients and servers interract via socket programming.
