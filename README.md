@@ -1,4 +1,4 @@
-# UDP Ping Software Implementation in Python.
+# UDP Ping Utility Implementation in Python.
 #### By Michael Glushchenko for UCSB CS176A Spring 2022 (Computer Networking).
 ###### Partners with Jack Rollinson.
 
