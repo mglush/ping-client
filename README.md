@@ -24,3 +24,6 @@ python PingClient.py localhost 12000      # start the client.
 4) When the client receives a reply from the server, it records the round-trip time of the connection.\
 5) If the client does not receive a reply from the server, it assumes the packet was lost, and sends a new ping request out.\
 6) This goes on for a total of 10 times, at the end of which a linux-like ping message is printed, showing the average round-trip time, number of pings, percent of successfull pings, etc.
+
+## Sample Output
+<img width="640" alt="Screen Shot 2022-06-08 at 6 15 57 PM" src="https://user-images.githubusercontent.com/59711300/172743586-e723a0a2-ab87-456a-9e25-4171e2f1f013.png">
